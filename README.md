@@ -1,2 +1,1 @@
-# DevOpstestrepo
-This repo is for demo purpose
+# kids_bingo
